@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PulkittalanGBU
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java
-- 📫 How to reach me for google job
+- 📫 Help to reach me for google job
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
